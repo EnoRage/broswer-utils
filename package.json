@@ -1,5 +1,5 @@
 {
-  "name": "@walletconnect/browser-utils",
+  "name": "@enorage/browser-utils",
   "version": "1.4.1",
   "description": "Browser Utilities for WalletConnect",
   "scripts": {
